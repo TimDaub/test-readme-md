@@ -11,7 +11,7 @@ $ npm i test-readme-md
 ## Usage
 
 ```js
-import testmd from "test-readme-md";
+import { testmd } from "test-readme-md";
 
 const block = `
 # this is a readme
