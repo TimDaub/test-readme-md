@@ -42,6 +42,10 @@ such error is bubbled up.
 
 ## Changelog
 
+### 0.0.2
+
+- Bump `inline-esm-worker` version to 0.0.3
+
 ### 0.0.1
 
 - Initial release
