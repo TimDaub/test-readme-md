@@ -1,6 +1,6 @@
 {
   "name": "test-readme-md",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A tool that runs all JavaScript snippets in your README.md",
   "main": "src/index.mjs",
   "directories": {

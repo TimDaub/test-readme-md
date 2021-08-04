@@ -22,3 +22,7 @@ export async function testmd(lang, string) {
     await run(block);
   }
 }
+
+export async function exec(block) {
+  return await run(block);
+};
