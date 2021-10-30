@@ -76,6 +76,10 @@ such error is bubbled up.
 
 ## Changelog
 
+### 0.0.4
+
+- Upgrade inline-esm-worker@0.0.4 to allow inline comments in worker code
+
 ### 0.0.3
 
 - Expose `exec` function and document usage in `readme.md`

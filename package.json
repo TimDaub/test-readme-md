@@ -25,6 +25,6 @@
     "ava": "3.15.0"
   },
   "dependencies": {
-    "inline-esm-worker": "0.0.3"
+    "inline-esm-worker": "0.0.4"
   }
 }
